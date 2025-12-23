@@ -1,13 +1,6 @@
 https://kluckysingh.github.io/Image-Search-App/
 
 
-Got it 👍
-You want **the entire page explanation together in one place**, simple and beginner-friendly — not broken into too many sections.
-
-Below is a **ONE-PAGE README.md** you can directly copy-paste.
-
----
-
 # 🖼️ Image Search App
 
 This project is a simple **Image Search Application** built using **HTML, CSS, and JavaScript**.
@@ -100,13 +93,4 @@ This project demonstrates:
 * DOM manipulation
 * Building a dynamic and interactive web application
 
----
-
-If you want next:
-
-* **Ultra-short README (college submission)**
-* **Interview explanation**
-* **Flow diagram**
-* **Code comments version**
-
-Just tell me 😊
+-
